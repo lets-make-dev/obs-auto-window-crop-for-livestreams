@@ -1,3 +1,7 @@
+> **Video Walkthrough**
+> 
+> Learn how to setup and use this tool: https://share.descript.com/view/sqzJ2qQm81o
+
 # OBS Window Tracking Tool
 
 This tool provides dynamic window tracking and zooming functionality for OBS (Open Broadcaster Software) on macOS. It allows you to automatically crop and scale the captured window based on mouse position and user-defined settings.
